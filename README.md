@@ -18,12 +18,13 @@ $ npm run test
 > codewars@1.0.0 test
 > jest
 
+ PASS  6-kyu/counting_duplicates/kata.test.js
  PASS  8-kyu/sum_mixed_array/kata.test.js
  PASS  8-kyu/removing_elements/kata.test.js
 
-Test Suites: 2 passed, 2 total
-Tests:       2 passed, 2 total
+Test Suites: 3 passed, 3 total
+Tests:       3 passed, 3 total
 Snapshots:   0 total
-Time:        0.166 s, estimated 1 s
+Time:        0.232 s, estimated 1 s
 Ran all test suites.
 ```
