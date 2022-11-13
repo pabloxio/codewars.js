@@ -18,12 +18,12 @@ $ npm run test
 > codewars@1.0.0 test
 > jest
 
+ PASS  8-kyu/sum_mixed_array/kata.test.js
  PASS  8-kyu/removing_elements/kata.test.js
-  ✓ should remove every second element (1 ms)
 
-Test Suites: 1 passed, 1 total
-Tests:       1 passed, 1 total
+Test Suites: 2 passed, 2 total
+Tests:       2 passed, 2 total
 Snapshots:   0 total
-Time:        0.115 s, estimated 1 s
+Time:        0.166 s, estimated 1 s
 Ran all test suites.
 ```
