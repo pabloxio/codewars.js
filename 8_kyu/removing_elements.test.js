@@ -1,4 +1,4 @@
-const removeEveryOther = require("./kata");
+const removeEveryOther = require("./removing_elements");
 
 test("should remove every second element", () => {
   tests = [

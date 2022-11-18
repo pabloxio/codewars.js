@@ -1,4 +1,4 @@
-const duplicateCount = require("./kata");
+const duplicateCount = require("./counting_duplicates");
 
 test("should count of distinct case-insensitive", () => {
   tests = [

@@ -1,4 +1,4 @@
-const sumMix = require("./kata");
+const sumMix = require("./sum_mixed_array");
 
 test("should sum mixed array", () => {
   tests = [

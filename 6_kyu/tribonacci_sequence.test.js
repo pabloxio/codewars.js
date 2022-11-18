@@ -1,4 +1,4 @@
-const tribonacci = require("./kata");
+const tribonacci = require("./tribonacci_sequence");
 
 test("should calculate tribonacci sequence", () => {
   tests = [
